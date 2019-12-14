@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/stunning-spoon/precache-manifest.0968065eea9a5cda619a73527410b929.js"
+  "/stunning-spoon/precache-manifest.85a16fd7c89e68503f4e8c816e5ea030.js"
 );
 
 self.addEventListener('message', (event) => {
