@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stunning-spoon/static/css/main.7aa0a2cd.chunk.css",
+    "main.js": "/stunning-spoon/static/js/main.bf548529.chunk.js",
+    "main.js.map": "/stunning-spoon/static/js/main.bf548529.chunk.js.map",
+    "runtime-main.js": "/stunning-spoon/static/js/runtime-main.862bec6c.js",
+    "runtime-main.js.map": "/stunning-spoon/static/js/runtime-main.862bec6c.js.map",
+    "static/js/2.7db90bec.chunk.js": "/stunning-spoon/static/js/2.7db90bec.chunk.js",
+    "static/js/2.7db90bec.chunk.js.map": "/stunning-spoon/static/js/2.7db90bec.chunk.js.map",
+    "index.html": "/stunning-spoon/index.html",
+    "precache-manifest.0968065eea9a5cda619a73527410b929.js": "/stunning-spoon/precache-manifest.0968065eea9a5cda619a73527410b929.js",
+    "service-worker.js": "/stunning-spoon/service-worker.js",
+    "static/css/main.7aa0a2cd.chunk.css.map": "/stunning-spoon/static/css/main.7aa0a2cd.chunk.css.map",
+    "static/js/2.7db90bec.chunk.js.LICENSE": "/stunning-spoon/static/js/2.7db90bec.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.862bec6c.js",
+    "static/js/2.7db90bec.chunk.js",
+    "static/css/main.7aa0a2cd.chunk.css",
+    "static/js/main.bf548529.chunk.js"
+  ]
+}
