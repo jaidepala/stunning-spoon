@@ -32,17 +32,17 @@ class App extends Component {
             });
     };
 
-    handleChange = (evt) => {
-        this.setState({
-            searcField: evt.target.value
-        });
+    handleChange = (event) => {
+        this.setState({ searchField: event.target.value });
     };
 
     render() {
         
         const { monsters, searchField } = this.state;
-
-        const filteredMonsters = monsters.filter(monster => monster.name.toLowerCase().includes(searchField.toLowerCase()));
+        
+        const filteredMonsters = monsters.filter(monster =>
+          monster.name.toLowerCase().includes(searchField.toLowerCase())
+        );
 
         return ( 
 			<div className ="App"> 
